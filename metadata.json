@@ -1,0 +1,7 @@
+{
+  "name": "Minimal Weather",
+  "description": "A simple, clean weather application that fetches real-time weather data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
